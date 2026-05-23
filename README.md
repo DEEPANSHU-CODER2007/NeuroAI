@@ -1,3 +1,4 @@
 # NeuroAI
-AI Chatbot coming soon 
+
+🤖 AI Chatbot coming soon.
 
